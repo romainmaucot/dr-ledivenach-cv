@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content=" Dr. Nikita Le Divenach CV">
     <meta name="author" content="Maucotel Romain">
-    <link rel="shortcut icon" href="tooth.svg">
+    <link rel="shortcut icon" href="assets/images/tooth.svg">
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
@@ -33,15 +33,17 @@
 				    <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
 					    <div class="primary-info">
 						    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Nikita Le Divenach</h1>
-						    <div class="title mb-3">Dentiste généraliste</div>
+						    <div class="title mb-3">Chirurgien-dentiste</div>
 						    <ul class="list-unstyled">
 							    <li class="mb-2"><a href="mailto:nikilediv@gmail.com"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>nikilediv@gmail.com</a></li>
-							    <li><a><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>07 63 34 03 14</a></li>
+							    <li class="mb-2"><a><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>07 63 34 03 14</a></li>
+                                <li><a><i class="fas fa-birthday-cake fa-fw mr-2" data-fa-transform="grow-6"></i>14 Janvier 1993</a></li>
 						    </ul>
 					    </div><!--//primary-info-->
 					    <div class="secondary-info ml-md-auto mt-2">
 						    <ul class="resume-social list-unstyled">
-				                <li class="mb-3"><a href="https://www.linkedin.com/in/nikita-le-divenach-98261a1a8/"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com</a></li>
+				                <li class="mb-3"><a href="https://www.linkedin.com/in/nikita-le-divenach-98261a1a8/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>Linkedin</a></li>
+				                <li class="mb-3"><a href="cv.pdf" target="_blank"><span class="fa-container text-center mr-2"><i class="fas fa-file-alt fa-fw"></i></span>Cv traditionnel</a></li>
 						    </ul>
 					    </div><!--//secondary-info-->
 
@@ -58,265 +60,231 @@
 			    <div class="row">
 				    <div class="col-lg-9">
 					    <section class="resume-section experience-section mb-5">
-						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Expériences professionnelles</h2>
+						    <!--<h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Formations & Diplômes</h2>
 						    <div class="resume-section-content">
 							    <div class="resume-timeline position-relative">
-								    <article class="resume-timeline-item position-relative pb-5">
-
-									    <div class="resume-timeline-item-header mb-2">
-										    <div class="d-flex flex-column flex-md-row">
-										        <h3 class="resume-position-title font-weight-bold mb-1">Lead Developer</h3>
-										        <div class="resume-company-name ml-auto">Startup Hub</div>
-										    </div><!--//row-->
-										    <div class="resume-position-time">2018 - Present</div>
-									    </div><!--//resume-timeline-item-header-->
-									    <div class="resume-timeline-item-desc">
-										    <p>Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.</p>
-										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Achievements:</h4>
-										    <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-										    <ul>
-											    <li>Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.</li>
-											    <li>At vero eos et accusamus et iusto odio dignissimos.</li>
-											    <li>Blanditiis praesentium voluptatum deleniti atque corrupti.</li>
-											    <li>Maecenas tempus tellus eget.</li>
-										    </ul>
-										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
-										    <ul class="list-inline">
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Angular</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Python</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">jQuery</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Webpack</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML/SASS</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">PostgresSQL</span></li>
-										    </ul>
-									    </div><!--//resume-timeline-item-desc-->
-
-								    </article><!--//resume-timeline-item-->
 
 								    <article class="resume-timeline-item position-relative pb-5">
-
 									    <div class="resume-timeline-item-header mb-2">
 										    <div class="d-flex flex-column flex-md-row">
-										        <h3 class="resume-position-title font-weight-bold mb-1">Senior Software Developer</h3>
-										        <div class="resume-company-name ml-auto">Google</div>
-										    </div><!--//row-->
-										    <div class="resume-position-time">2014 - 2018</div>
-									    </div><!--//resume-timeline-item-header-->
-									    <div class="resume-timeline-item-desc">
-										    <p>Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.</p>
-										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
-										    <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
-										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
-										    <ul class="list-inline">
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">React</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Redux</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Django</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Webpack</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML/SASS</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">MySQL</span></li>
-										    </ul>
-									    </div><!--//resume-timeline-item-desc-->
-
-								    </article><!--//resume-timeline-item-->
+										        <h3 class="resume-position-title font-weight-bold mb-1">Études en chirurgie dentaire</h3>
+										        <div class="resume-company-name ml-auto">Université CEU San Pablo, Faculté de médecine de Madrid, Espagne</div>
+										    </div>
+										    <div class="resume-position-time">2011 - 2016</div>
+									    </div>
+								    </article>
 
 								    <article class="resume-timeline-item position-relative pb-5">
-
 									    <div class="resume-timeline-item-header mb-2">
 										    <div class="d-flex flex-column flex-md-row">
-										        <h3 class="resume-position-title font-weight-bold mb-1">Co-Founder & Lead Developer</h3>
-										        <div class="resume-company-name ml-auto">To-do Lists</div>
-										    </div><!--//row-->
-										    <div class="resume-position-time">2012 - 2014</div>
-									    </div><!--//resume-timeline-item-header-->
+										        <h3 class="resume-position-title font-weight-bold mb-1">Bac scientifique S mention Bien</h3>
+										        <div class="resume-company-name ml-auto">Lycée Français de Madrid, Espagne</div>
+										    </div>
+										    <div class="resume-position-time">2004 - 2011</div>
+									    </div>
 									    <div class="resume-timeline-item-desc">
-										    <p>Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
-										    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
-										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
-										    <ul class="list-inline">
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Django</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">JavaScript</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Node.js</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Require.js</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML/SASS</span></li>
-										    </ul>
-									    </div><!--//resume-timeline-item-desc-->
-
-								    </article><!--//resume-timeline-item-->
-
-								    <article class="resume-timeline-item position-relative">
-
-									    <div class="resume-timeline-item-header mb-2">
-										    <div class="d-flex flex-column flex-md-row">
-										        <h3 class="resume-position-title font-weight-bold mb-1">Web Developer <small class="text-muted">(Intern)</small></h3>
-										        <div class="resume-company-name ml-auto">Amazon</div>
-										    </div><!--//row-->
-										    <div class="resume-position-time">2011 - 2012</div>
-									    </div><!--//resume-timeline-item-header-->
-									    <div class="resume-timeline-item-desc">
-										    <p>Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum.</p>
-										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
-										    <ul class="list-inline">
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Ruby on Rails</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">jQuery</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML/LESS</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">MongoDB</span></li>
-										    </ul>
-									    </div><!--//resume-timeline-item-desc-->
-
-								    </article><!--//resume-timeline-item-->
+									    </div>
+								    </article>
+							    </div>
+						    </div>-->
 
 
-							    </div><!--//resume-timeline-->
+                            <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Expériences professionnelles</h2>
+                            <div class="resume-section-content">
+                                <div class="resume-timeline position-relative">
+                                    <article class="resume-timeline-item position-relative pb-5">
+
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Chirurgien-dentiste</h3>
+                                                <div class="resume-company-name ml-auto">Médipole de Nanterre</div>
+                                            </div><!--//row-->
+                                            <div class="resume-position-time">Actuellement</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                    </article><!--//resume-timeline-item-->
+
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Omni-pratique</h3>
+                                                <div class="resume-company-name ml-auto">Médipole de Nanterre</div>
+                                            </div><!--//row-->
+                                            <div class="resume-position-time">Janvier 2018</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                        <div class="resume-timeline-item-desc">
+                                            <p>Premières poses d’implants, sinus lift et greffes osseuses.</p>
+                                        </div><!--//resume-timeline-item-desc-->
+                                    </article><!--//resume-timeline-item-->
+
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Praticienne en libéral</h3>
+                                                <div class="resume-company-name ml-auto">Cabinet de Lattre de Tassigny, Alençon</div>
+                                            </div><!--//row-->
+                                            <div class="resume-position-time">Avril 2018 - Novembre 2018</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                        <div class="resume-timeline-item-desc">
+                                            <p>Spécialisation en parodontie.</p>
+                                        </div><!--//resume-timeline-item-desc-->
+                                    </article><!--//resume-timeline-item-->
+
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Omnipraticienne</h3>
+                                                <div class="resume-company-name ml-auto">Cliniques du Dr Noguera à Saragosse, Espagne</div>
+                                            </div><!--//row-->
+                                            <div class="resume-position-time"> Septembre 2017 - Décembre 2017</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                        <div class="resume-timeline-item-desc">
+                                            <h4 class="resume-timeline-item-desc-heading font-weight-bold">Soins réalisés:</h4>
+                                            <ul>
+                                                <li>Soins conservateurs</li>
+                                                <li>Obturations</li>
+                                                <li>Détartrages</li>
+                                                <li>Prothèses</li>
+                                                <li>Curetages</li>
+                                            </ul>
+                                        </div><!--//resume-timeline-item-desc-->
+                                    </article><!--//resume-timeline-item-->
+
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Stage de formation clinique</h3>
+                                                <div class="resume-company-name ml-auto">Clinique Universitaire Odontologique à HM Hospitales, Madrid</div>
+                                            </div><!--//row-->
+                                            <div class="resume-position-time"> Septembre 2015 - Juillet 2016</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                        <div class="resume-timeline-item-desc">
+                                            <p>3 fois 4 heures par semaine en omni-pratique</p>
+                                        </div><!--//resume-timeline-item-desc-->
+                                    </article><!--//resume-timeline-item-->
+
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Assistante dentaire</h3>
+                                                <div class="resume-company-name ml-auto">Cabinet du Docteur Hazout, Paris</div>
+                                            </div><!--//row-->
+                                            <div class="resume-position-time">2017</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                        <div class="resume-timeline-item-desc">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Stérilisation</span></li>
+                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Travail à 4 et 6 mains</span></li>
+                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Chirurgies</span></li>
+                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Omni-pratique</span></li>
+                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Gestion de l'agenda</span></li>
+                                            </ul>
+                                        </div><!--//resume-timeline-item-desc-->
+                                    </article><!--//resume-timeline-item-->
+
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Hygiéniste dentaire</h3>
+                                                <div class="resume-company-name ml-auto">Clinique du Docteur De Lucas, Madrid</div>
+                                            </div><!--//row-->
+                                            <div class="resume-position-time">2016</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                        <div class="resume-timeline-item-desc">
+                                            <p>Patientèle VIP, détartrages, scellement de sillons, stérilisation, etc.</p>
+                                        </div><!--//resume-timeline-item-desc-->
+                                    </article><!--//resume-timeline-item-->
+
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Auxiliaire dentaire</h3>
+                                                <div class="resume-company-name ml-auto">Clinique “Unidental”, Madrid</div>
+                                            </div><!--//row-->
+                                            <div class="resume-position-time">2015</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                        <div class="resume-timeline-item-desc">
+                                            <p>Gestion de l’agenda, préparation des instruments, stérilisation, prise d’empreinte, etc.</p>
+                                        </div><!--//resume-timeline-item-desc-->
+                                    </article><!--//resume-timeline-item-->
 
 
-
-
-
-
-						    </div>
+                                </div><!--//resume-timeline-->
+                            </div>
 					    </section><!--//experience-section-->
 				    </div>
 				    <div class="col-lg-3">
-					    <section class="resume-section skills-section mb-5">
-						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Skills &amp; Tools</h2>
-						    <div class="resume-section-content">
-						        <div class="resume-skill-item">
-							        <h4 class="resume-skills-cat font-weight-bold">Frontend</h4>
-							        <ul class="list-unstyled mb-4">
-								        <li class="mb-2">
-								            <div class="resume-skill-name">Angular</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 98%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-								        <li class="mb-2">
-								            <div class="resume-skill-name">React</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 94%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-								        <li class="mb-2">
-								            <div class="resume-skill-name">JavaScript</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-
-								        <li class="mb-2">
-								            <div class="resume-skill-name">Node.js</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-								        <li class="mb-2">
-								            <div class="resume-skill-name">HTML/CSS/SASS/LESS</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-							        </ul>
-						        </div><!--//resume-skill-item-->
-
-						        <div class="resume-skill-item">
-						            <h4 class="resume-skills-cat font-weight-bold">Backend</h4>
-							        <ul class="list-unstyled">
-								        <li class="mb-2">
-								            <div class="resume-skill-name">Python/Django</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-								        <li class="mb-2">
-								            <div class="resume-skill-name">Ruby/Rails</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-								        <li class="mb-2">
-								            <div class="resume-skill-name">PHP</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 86%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-								        <li class="mb-2">
-								            <div class="resume-skill-name">WordPress/Shopify</div>
-									        <div class="progress resume-progress">
-											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 82%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-								        </li>
-							        </ul>
-						        </div><!--//resume-skill-item-->
-
-						        <div class="resume-skill-item">
-						            <h4 class="resume-skills-cat font-weight-bold">Others</h4>
-						            <ul class="list-inline">
-							            <li class="list-inline-item"><span class="badge badge-light">DevOps</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Code Review</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Unit Testing</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Wireframing</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Sketch</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Balsamiq</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">WordPress</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Shopify</span></li>
-						            </ul>
-						        </div><!--//resume-skill-item-->
-						    </div><!--resume-section-content-->
-					    </section><!--//skills-section-->
-					    <section class="resume-section education-section mb-5">
-						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Education</h2>
-						    <div class="resume-section-content">
-							    <ul class="list-unstyled">
-								    <li class="mb-2">
-								        <div class="resume-degree font-weight-bold">MSc in Computer Science</div>
-								        <div class="resume-degree-org">University College London</div>
-								        <div class="resume-degree-time">2010 - 2011</div>
-								    </li>
-								    <li>
-								        <div class="resume-degree font-weight-bold">BSc Maths and Physics</div>
-								        <div class="resume-degree-org">Imperial College London</div>
-								        <div class="resume-degree-time">2007 - 2010</div>
-								    </li>
-							    </ul>
-						    </div>
-					    </section><!--//education-section-->
+                        <section class="resume-section education-section mb-5">
+                            <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">DIPLÔMES</h2>
+                            <div class="resume-section-content">
+                                <ul class="list-unstyled">
+                                    <li class="mb-2">
+                                        <div class="resume-degree font-weight-bold">Études en chirurgie dentaire</div>
+                                        <div class="resume-degree-org">Université CEU San Pablo, Faculté de médecine de Madrid</div>
+                                        <div class="resume-degree-time">2011 - 2016</div>
+                                    </li>
+                                    <li>
+                                        <div class="resume-degree font-weight-bold">Bac scientifique S mention Bien</div>
+                                        <div class="resume-degree-org">Lycée Français de Madrid</div>
+                                        <div class="resume-degree-time">2004 - 2011</div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </section>
+                        <section class="resume-section language-section mb-5">
+                            <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Langues</h2>
+                            <div class="resume-section-content">
+                                <ul class="list-unstyled resume-lang-list">
+                                    <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">Français</span> <small class="text-muted font-weight-normal">(Bilingue)</small></li>
+                                    <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">Espagnol</span> <small class="text-muted font-weight-normal">(Bilingue)</small></li>
+                                    <li class="mb-2"><span class="resume-lang-name font-weight-bold">Anglais</span> <small class="text-muted font-weight-normal">(Niveau B1-B2, Courant)</small></li>
+                                </ul>
+                            </div>
+                        </section>
+                        <!--//language-section-->
+                        <!--//education-section-->
 					    <section class="resume-section reference-section mb-5">
-						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Awards</h2>
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Informatique</h2>
 						    <div class="resume-section-content">
 							    <ul class="list-unstyled resume-awards-list">
 								    <li class="mb-2 pl-4 position-relative">
-								        <i class="resume-award-icon fas fa-trophy position-absolute" data-fa-transform="shrink-2"></i>
-								        <div class="resume-award-name">Award Name Lorem</div>
-								        <div class="resume-award-desc">Award desc goes here, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.</div>
+								        <i class="resume-award-icon fab fa-microsoft position-absolute" data-fa-transform="shrink-2"></i>
+								        <div class="resume-award-name">Pack office</div>
 								    </li>
 								    <li class="mb-0 pl-4 position-relative">
-								        <i class="resume-award-icon fas fa-trophy position-absolute" data-fa-transform="shrink-2"></i>
-								        <div class="resume-award-name">Award Name Ipsum</div>
-								        <div class="resume-award-desc">Award desc goes here, ultricies nec, pellentesque.</div>
+								        <i class="resume-award-icon fas fa-laptop-medical position-absolute" data-fa-transform="shrink-2"></i>
+								        <div class="resume-award-name">Maîtrise des logiciels</div>
+								        <div class="resume-award-desc">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item"><span class="badge badge-primary">Gesden</span></li>
+                                                <li class="list-inline-item"><span class="badge badge-primary">Julie</span></li>
+                                                <li class="list-inline-item"><span class="badge badge-primary">Logos</span></li>
+                                                <li class="list-inline-item"><span class="badge badge-primary">Doctolib</span></li>
+                                            </ul>
+                                        </div>
 								    </li>
 							    </ul>
 						    </div>
 					    </section><!--//interests-section-->
-					    <section class="resume-section language-section mb-5">
-						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Language</h2>
-						    <div class="resume-section-content">
-							    <ul class="list-unstyled resume-lang-list">
-								    <li class="mb-2"><span class="resume-lang-name font-weight-bold">English</span> <small class="text-muted font-weight-normal">(Native)</small></li>
-								    <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">French</span> <small class="text-muted font-weight-normal">(Professional)</small></li>
-								    <li><span class="resume-lang-name font-weight-bold">Spanish</span> <small class="text-muted font-weight-normal">(Professional)</small></li>
-							    </ul>
-						    </div>
-					    </section><!--//language-section-->
 					    <section class="resume-section interests-section mb-5">
-						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Interests</h2>
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Sports</h2>
 						    <div class="resume-section-content">
 							    <ul class="list-unstyled">
-								    <li class="mb-1">Climbing</li>
-								    <li class="mb-1">Snowboarding</li>
-								    <li class="mb-1">Cooking</li>
+								    <li class="mb-1">Yoga</li>
+								    <li class="mb-1">Basketball</li>
+								    <li class="mb-1">Natation</li>
 							    </ul>
 						    </div>
 					    </section><!--//interests-section-->
+                        <section class="resume-section interests-section mb-5">
+                            <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Arts</h2>
+                            <div class="resume-section-content">
+                                <ul class="list-unstyled">
+                                    <li class="mb-1">Composition & interprétation musicale (rap, jazz ..)</li>
+                                    <li class="mb-1">Art plastique</li>
+                                    <li class="mb-1">Peinture</li>
+                                </ul>
+                            </div>
+                        </section><!--//interests-section-->
 
 				    </div>
 			    </div><!--//row-->
@@ -325,12 +293,6 @@
 
 	    </div>
     </article>
-
-
-    <footer class="footer text-center pt-2 pb-5">
-	    <!--/* This template is free as long as you keep the footer attribution link. If you'd like to use the template without the attribution link, you can buy the commercial license via our website: themes.3rdwavemedia.com Thank you for your support. :) */-->
-        <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
-    </footer>
 
 
 
