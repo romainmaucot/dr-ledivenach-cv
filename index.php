@@ -29,7 +29,7 @@
 	    <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
 		    <header class="resume-header pt-4 pt-md-0">
 			    <div class="media flex-column flex-md-row">
-				    <img class="mr-3 img-fluid picture mx-auto" src="assets/images/profile.jpg" alt="">
+				    <img class="mr-3 img-fluid picture mx-auto" src="assets/images/profile.png" alt="">
 				    <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
 					    <div class="primary-info">
 						    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Nikita Le Divenach</h1>
@@ -51,100 +51,108 @@
 			    </div><!--//media-->
 		    </header>
 		    <div class="resume-body p-5">
-			    <section class="resume-section summary-section mb-5">
-				    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">A propos de moi</h2>
-				    <div class="resume-section-content">
-					    <p class="mb-0">Summarise your career here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can download this free resume/CV template here. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.</p>
-				    </div>
-			    </section><!--//summary-section-->
 			    <div class="row">
 				    <div class="col-lg-9">
-					    <section class="resume-section experience-section mb-5">
-						    <!--<h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Formations & Diplômes</h2>
-						    <div class="resume-section-content">
-							    <div class="resume-timeline position-relative">
+                        <section class="resume-section experience-section mb-5">
+                            <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">DIPLÔMES</h2>
+                            <div class="resume-section-content">
+                                <div class="resume-timeline position-relative">
+                                    <h3 class="pb-4">Chirurgien-dentiste</h3>
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">DU en Droit, Santé et Société</h3>
+                                            </div><!--//row-->
+                                            <h6>Université Paris Descartes, Faculté de Médecine de Paris, France</h6>
 
-								    <article class="resume-timeline-item position-relative pb-5">
-									    <div class="resume-timeline-item-header mb-2">
-										    <div class="d-flex flex-column flex-md-row">
-										        <h3 class="resume-position-title font-weight-bold mb-1">Études en chirurgie dentaire</h3>
-										        <div class="resume-company-name ml-auto">Université CEU San Pablo, Faculté de médecine de Madrid, Espagne</div>
-										    </div>
-										    <div class="resume-position-time">2011 - 2016</div>
-									    </div>
-								    </article>
+                                            <div class="resume-position-time">2019 - 2020</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                    </article><!--//resume-timeline-item-->
 
-								    <article class="resume-timeline-item position-relative pb-5">
-									    <div class="resume-timeline-item-header mb-2">
-										    <div class="d-flex flex-column flex-md-row">
-										        <h3 class="resume-position-title font-weight-bold mb-1">Bac scientifique S mention Bien</h3>
-										        <div class="resume-company-name ml-auto">Lycée Français de Madrid, Espagne</div>
-										    </div>
-										    <div class="resume-position-time">2004 - 2011</div>
-									    </div>
-									    <div class="resume-timeline-item-desc">
-									    </div>
-								    </article>
-							    </div>
-						    </div>-->
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Études en chirurgie dentairen</h3>
+                                            </div>
+                                            <h6>
+                                                Université CEU San Pablo, Faculté de médecine de Madrid
+                                            </h6>
+                                            <div class="resume-position-time">2011 - 2016</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                    </article><!--//resume-timeline-item-->
+
+                                    <article class="resume-timeline-item position-relative pb-5">
+                                        <div class="resume-timeline-item-header mb-2">
+                                            <div class="d-flex flex-column flex-md-row">
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Bac scientifique S mention Bien</h3>
+                                            </div><!--//row-->
+                                            <h7>
+                                                Lycée Français de Madrid
+                                            </h7>
+                                            <div class="resume-position-time">2004 - 2011</div>
+                                        </div><!--//resume-timeline-item-header-->
+                                    </article><!--//resume-timeline-item-->
+                                </div>
+                            </div>
+                        </section>
 
 
+
+
+                                    <section class="resume-section experience-section mb-5">
                             <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Expériences professionnelles</h2>
                             <div class="resume-section-content">
                                 <div class="resume-timeline position-relative">
+                                    <h3 class="pb-4">Projet entrepreunarial</h3>
                                     <article class="resume-timeline-item position-relative pb-5">
-
                                         <div class="resume-timeline-item-header mb-2">
                                             <div class="d-flex flex-column flex-md-row">
-                                                <h3 class="resume-position-title font-weight-bold mb-1">Chirurgien-dentiste</h3>
-                                                <div class="resume-company-name ml-auto">Médipole de Nanterre</div>
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Co-fondatrice</h3>
                                             </div><!--//row-->
-                                            <div class="resume-position-time">Actuellement</div>
+                                            <h7>
+                                                Dentiio, Paris
+                                            </h7>
+                                            <div class="resume-position-time">2019 - Actuellement</div>
+                                            <div class="resume-timeline-item-desc">
+                                                <p>Création du projet Dentiio: Plateforme mobile et web d’échange de protocoles et de conseils entre chirurgiens dentistes.
+                                                <br>
+                                                    <a href="https://www.dentiio.fr" target="_blank">www.dentiio.fr</a></p>
+                                            </div>
                                         </div><!--//resume-timeline-item-header-->
                                     </article><!--//resume-timeline-item-->
-
+                                    <h3 class="pb-4">Chirurgien-dentiste</h3>
                                     <article class="resume-timeline-item position-relative pb-5">
                                         <div class="resume-timeline-item-header mb-2">
                                             <div class="d-flex flex-column flex-md-row">
-                                                <h3 class="resume-position-title font-weight-bold mb-1">Omni-pratique</h3>
-                                                <div class="resume-company-name ml-auto">Médipole de Nanterre</div>
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Praticienne salariée</h3>
                                             </div><!--//row-->
-                                            <div class="resume-position-time">Janvier 2018</div>
+                                            <h7>
+                                                Centre dentaire Médipole de Nanterre
+                                            </h7>
+                                            <div class="resume-position-time">Janvier 2018 - Actuellement</div>
                                         </div><!--//resume-timeline-item-header-->
                                         <div class="resume-timeline-item-desc">
-                                            <p>Premières poses d’implants, sinus lift et greffes osseuses.</p>
-                                        </div><!--//resume-timeline-item-desc-->
+                                            <ul>
+                                                <li>Omni-pratique</li>
+                                                <li>Premières poses d’implants guidées par un chirurgien-dentiste référent</li>
+                                            </ul>
+                                        </div>
                                     </article><!--//resume-timeline-item-->
 
                                     <article class="resume-timeline-item position-relative pb-5">
                                         <div class="resume-timeline-item-header mb-2">
                                             <div class="d-flex flex-column flex-md-row">
-                                                <h3 class="resume-position-title font-weight-bold mb-1">Praticienne en libéral</h3>
-                                                <div class="resume-company-name ml-auto">Cabinet de Lattre de Tassigny, Alençon</div>
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Praticienne en libéral </h3>
                                             </div><!--//row-->
+                                            <h7>
+                                                Cabinet de Lattre de Tassigny, Alençon
+                                            </h7>
                                             <div class="resume-position-time">Avril 2018 - Novembre 2018</div>
                                         </div><!--//resume-timeline-item-header-->
                                         <div class="resume-timeline-item-desc">
-                                            <p>Spécialisation en parodontie.</p>
-                                        </div><!--//resume-timeline-item-desc-->
-                                    </article><!--//resume-timeline-item-->
-
-                                    <article class="resume-timeline-item position-relative pb-5">
-                                        <div class="resume-timeline-item-header mb-2">
-                                            <div class="d-flex flex-column flex-md-row">
-                                                <h3 class="resume-position-title font-weight-bold mb-1">Omnipraticienne</h3>
-                                                <div class="resume-company-name ml-auto">Cliniques du Dr Noguera à Saragosse, Espagne</div>
-                                            </div><!--//row-->
-                                            <div class="resume-position-time"> Septembre 2017 - Décembre 2017</div>
-                                        </div><!--//resume-timeline-item-header-->
-                                        <div class="resume-timeline-item-desc">
-                                            <h4 class="resume-timeline-item-desc-heading font-weight-bold">Soins réalisés:</h4>
                                             <ul>
-                                                <li>Soins conservateurs</li>
-                                                <li>Obturations</li>
-                                                <li>Détartrages</li>
-                                                <li>Prothèses</li>
-                                                <li>Curetages</li>
+                                                <li>Omni-pratique</li>
+                                                <li>Spécialisation en parodontie.</li>
                                             </ul>
                                         </div><!--//resume-timeline-item-desc-->
                                     </article><!--//resume-timeline-item-->
@@ -152,31 +160,40 @@
                                     <article class="resume-timeline-item position-relative pb-5">
                                         <div class="resume-timeline-item-header mb-2">
                                             <div class="d-flex flex-column flex-md-row">
-                                                <h3 class="resume-position-title font-weight-bold mb-1">Stage de formation clinique</h3>
-                                                <div class="resume-company-name ml-auto">Clinique Universitaire Odontologique à HM Hospitales, Madrid</div>
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Praticienne </h3>
+                                                <div class="resume-company-name ml-auto"></div>
                                             </div><!--//row-->
-                                            <div class="resume-position-time"> Septembre 2015 - Juillet 2016</div>
+                                            <h7>
+                                                Clinique du Dr Noguera à Saragosse, Espagne
+                                            </h7>
+                                            <div class="resume-position-time"> Septembre 2017 - Décembre 2017</div>
                                         </div><!--//resume-timeline-item-header-->
                                         <div class="resume-timeline-item-desc">
-                                            <p>3 fois 4 heures par semaine en omni-pratique</p>
+                                            <ul>
+                                                <li>Omni-pratique (Obturations, détartrages, prothèses, curetages ...)</li>
+                                            </ul>
                                         </div><!--//resume-timeline-item-desc-->
                                     </article><!--//resume-timeline-item-->
+
+                                    <h3 class="pb-4">Assistante dentaire et hygieniste</h3>
 
                                     <article class="resume-timeline-item position-relative pb-5">
                                         <div class="resume-timeline-item-header mb-2">
                                             <div class="d-flex flex-column flex-md-row">
                                                 <h3 class="resume-position-title font-weight-bold mb-1">Assistante dentaire</h3>
-                                                <div class="resume-company-name ml-auto">Cabinet du Docteur Hazout, Paris</div>
                                             </div><!--//row-->
+                                            <h7>
+                                                Cabinet du Docteur Hazout, Paris
+                                            </h7>
                                             <div class="resume-position-time">2017</div>
                                         </div><!--//resume-timeline-item-header-->
                                         <div class="resume-timeline-item-desc">
-                                            <ul class="list-inline">
-                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Stérilisation</span></li>
-                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Travail à 4 et 6 mains</span></li>
-                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Chirurgies</span></li>
-                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Omni-pratique</span></li>
-                                                <li class="list-inline-item"><span class="badge badge-primary badge-pill">Gestion de l'agenda</span></li>
+                                            <ul>
+                                                <li>Stérilisation</li>
+                                                <li>Travail à 4 et 6 mains</li>
+                                                <li>Chirurgies</li>
+                                                <li>Omni-pratique</li>
+                                                <li>Gestion de l'agenda</li>
                                             </ul>
                                         </div><!--//resume-timeline-item-desc-->
                                     </article><!--//resume-timeline-item-->
@@ -185,25 +202,19 @@
                                         <div class="resume-timeline-item-header mb-2">
                                             <div class="d-flex flex-column flex-md-row">
                                                 <h3 class="resume-position-title font-weight-bold mb-1">Hygiéniste dentaire</h3>
-                                                <div class="resume-company-name ml-auto">Clinique du Docteur De Lucas, Madrid</div>
                                             </div><!--//row-->
+                                            <h7>
+                                                Clinique du Docteur De Lucas, Madrid
+                                            </h7>
                                             <div class="resume-position-time">2016</div>
                                         </div><!--//resume-timeline-item-header-->
                                         <div class="resume-timeline-item-desc">
-                                            <p>Patientèle VIP, détartrages, scellement de sillons, stérilisation, etc.</p>
-                                        </div><!--//resume-timeline-item-desc-->
-                                    </article><!--//resume-timeline-item-->
-
-                                    <article class="resume-timeline-item position-relative pb-5">
-                                        <div class="resume-timeline-item-header mb-2">
-                                            <div class="d-flex flex-column flex-md-row">
-                                                <h3 class="resume-position-title font-weight-bold mb-1">Auxiliaire dentaire</h3>
-                                                <div class="resume-company-name ml-auto">Clinique “Unidental”, Madrid</div>
-                                            </div><!--//row-->
-                                            <div class="resume-position-time">2015</div>
-                                        </div><!--//resume-timeline-item-header-->
-                                        <div class="resume-timeline-item-desc">
-                                            <p>Gestion de l’agenda, préparation des instruments, stérilisation, prise d’empreinte, etc.</p>
+                                            <ul>
+                                                <li>Patientèle VIP</li>
+                                                <li>Détartrages</li>
+                                                <li>Scellement de sillons</li>
+                                                <li>Stérilisation</li>
+                                            </ul>
                                         </div><!--//resume-timeline-item-desc-->
                                     </article><!--//resume-timeline-item-->
 
@@ -213,23 +224,6 @@
 					    </section><!--//experience-section-->
 				    </div>
 				    <div class="col-lg-3">
-                        <section class="resume-section education-section mb-5">
-                            <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">DIPLÔMES</h2>
-                            <div class="resume-section-content">
-                                <ul class="list-unstyled">
-                                    <li class="mb-2">
-                                        <div class="resume-degree font-weight-bold">Études en chirurgie dentaire</div>
-                                        <div class="resume-degree-org">Université CEU San Pablo, Faculté de médecine de Madrid</div>
-                                        <div class="resume-degree-time">2011 - 2016</div>
-                                    </li>
-                                    <li>
-                                        <div class="resume-degree font-weight-bold">Bac scientifique S mention Bien</div>
-                                        <div class="resume-degree-org">Lycée Français de Madrid</div>
-                                        <div class="resume-degree-time">2004 - 2011</div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </section>
                         <section class="resume-section language-section mb-5">
                             <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Langues</h2>
                             <div class="resume-section-content">
@@ -246,12 +240,10 @@
 						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Informatique</h2>
 						    <div class="resume-section-content">
 							    <ul class="list-unstyled resume-awards-list">
-								    <li class="mb-2 pl-4 position-relative">
-								        <i class="resume-award-icon fab fa-microsoft position-absolute" data-fa-transform="shrink-2"></i>
+								    <li class="mb-2 position-relative">
 								        <div class="resume-award-name">Pack office</div>
 								    </li>
-								    <li class="mb-0 pl-4 position-relative">
-								        <i class="resume-award-icon fas fa-laptop-medical position-absolute" data-fa-transform="shrink-2"></i>
+								    <li class="mb-0 position-relative">
 								        <div class="resume-award-name">Maîtrise des logiciels</div>
 								        <div class="resume-award-desc">
                                             <ul class="list-inline">
@@ -279,7 +271,7 @@
                             <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Arts</h2>
                             <div class="resume-section-content">
                                 <ul class="list-unstyled">
-                                    <li class="mb-1">Composition & interprétation musicale (rap, jazz ..)</li>
+                                    <li class="mb-1">Composition musicale <br>Interprétation musicale</li>
                                     <li class="mb-1">Art plastique</li>
                                     <li class="mb-1">Peinture</li>
                                 </ul>
