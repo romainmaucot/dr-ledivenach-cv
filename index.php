@@ -57,7 +57,6 @@
                             <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">DIPLÔMES</h2>
                             <div class="resume-section-content">
                                 <div class="resume-timeline position-relative">
-                                    <h3 class="pb-4">Chirurgien-dentiste</h3>
                                     <article class="resume-timeline-item position-relative pb-5">
                                         <div class="resume-timeline-item-header mb-2">
                                             <div class="d-flex flex-column flex-md-row">
@@ -72,7 +71,7 @@
                                     <article class="resume-timeline-item position-relative pb-5">
                                         <div class="resume-timeline-item-header mb-2">
                                             <div class="d-flex flex-column flex-md-row">
-                                                <h3 class="resume-position-title font-weight-bold mb-1">Études en chirurgie dentairen</h3>
+                                                <h3 class="resume-position-title font-weight-bold mb-1">Études en chirurgie dentaire</h3>
                                             </div>
                                             <h6>
                                                 Université CEU San Pablo, Faculté de médecine de Madrid
